@@ -282,4 +282,6 @@ definitions:
       message:
         type: "string"
 externalDocs:
-  description: "Find out mo
+  description: "Find out more about Swagger"
+  url: "http://swagger.io"
+
